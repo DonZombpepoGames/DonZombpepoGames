@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sonic Fangames
 - 🌱 I’m currently learning RSDKv4 modding
 - 📫 My youtube channel: https://www.youtube.com/c/DonZombpepo
-- My itch page: https://itch.io/DonZombpepoGames
+- My gamebanana page: https://gamebanana.com/members/2085736
 # My Projects
 * [Another Sonic Adventure](https://github.com/DonZombpepoGames/Another-Sonic-Adventure/) - A Sonic Fangame with known zones, original layouts, new objects, new gimmicks, playable Amy and more stuff, based on RSDK-GDT.
 * Extra Slot Amy (S2) - A Sonic 2 (2013) Mod, with a Playable Amy with her own character slot and moveset.
