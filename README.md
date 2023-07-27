@@ -6,7 +6,8 @@
 - If you want to contact me on Discord, send DM and friend request to @zombstech
 # My Projects
 * [Another Sonic Adventure](https://github.com/DonZombpepoGames/Another-Sonic-Adventure/) - A Sonic Fangame with known zones, original layouts, new objects, new gimmicks, playable Amy and more stuff, based on RSDK-GDT.
-* Extra Slot Amy (S2) - A Sonic 2 (2013) Mod, with a Playable Amy with her own character slot and moveset.
+* [Extra Slot Amy (S2)](https://gamebanana.com/wips/78010) - A Sonic 2 (2013) Mod, with a Playable Amy with her own character slot and moveset.
+* [Super Chafa Mario Run](https://donzombpepogames.itch.io/super-chafa-mario-run) - A simple HTML5 endless runner Mario fangame in 2D, made in Construct 2.
 # I'm Collaborating in
 * Mighty Chaos Adventure - A Sonic 1 Mod, with Mighty and Ray as lead characters, and original level layouts, Made by Marco Gamer @A.
 * [RSDK-GDT](https://github.com/youngerelk1/RSDK-GDT) - A Game Template/Framework for making fangames with RSDK without needing the S1/S2 datapack, made by Klashicola (https://github.com/youngerelk1)
