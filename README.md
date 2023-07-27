@@ -9,7 +9,7 @@
 * [Extra Slot Amy (S2)](https://gamebanana.com/wips/78010) - A Sonic 2 (2013) Mod, with a Playable Amy with her own character slot and moveset.
 * [Super Chafa Mario Run](https://donzombpepogames.itch.io/super-chafa-mario-run) - A simple HTML5 endless runner Mario fangame in 2D, made in Construct 2.
 # I'm Collaborating in
-* Mighty Chaos Adventure - A Sonic 1 Mod, with Mighty and Ray as lead characters, and original level layouts, Made by Marco Gamer @A.
+* Mighty Chaos Adventure - A Sonic 1 Mod, with Mighty and Ray as lead characters, and original level layouts, Made by [The Retro Modder](https://www.youtube.com/channel/UCLXdGbYQo0LxRUMP7YlDuaw).
 * [RSDK-GDT](https://github.com/youngerelk1/RSDK-GDT) - A Game Template/Framework for making fangames with RSDK without needing the S1/S2 datapack, made by Klashicola (https://github.com/youngerelk1)
 * Codename Virtua - A Sonic fangame with characters like Virtua (Sonic's avatar), or Honey the Cat, Sonic Mania/Chaotix artstyle and original zones, based on RSDK-GDT, also made by Klashicola.
 
